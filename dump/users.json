@@ -1,0 +1,18 @@
+[{
+	"_id": "5fd630df082b0929f0dfbd55",
+	"name": "Поля",
+	"phone_ids": [
+		"TbkNeRxnDEukzg5TR",
+		"2EwGgMfEwZ9ReTpHx"
+	],
+	"address": "Гребенщикова, 7"
+},
+{
+	"_id": "cjhgCnJeeNTdMCbYZ",
+	"name": "Данил",
+	"address": "Гребенщикова 89",
+	"phone_ids": [
+		"WvPqz3ysRLeMZySRs"
+	]
+}]
+

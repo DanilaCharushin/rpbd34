@@ -148,7 +148,6 @@ export default {
 
                     if (this.searchByFourDigits) {
                         for (const phone of phones) {
-                            console.log(phone.number.slice(-4));
                             if (phone.number.slice(-4).includes(this.searchText)) {
                                 return true;
                             }

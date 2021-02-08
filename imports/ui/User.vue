@@ -153,8 +153,8 @@ export default {
                     phone_ids: phone_ids
                 }
             });
-            this.newName = this.user.name;
-            this.newAddress = this.user.address;
+            // this.newName = this.user.name;
+            // this.newAddress = this.user.address;
         },
         removeUser() {
             for (const phone_id of this.user.phone_ids) {

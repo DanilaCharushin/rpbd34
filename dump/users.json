@@ -1,16 +1,16 @@
 [{
 	"_id": "5fd630df082b0929f0dfbd55",
-	"name": "Поля",
+	"name": "Вася",
 	"phone_ids": [
 		"TbkNeRxnDEukzg5TR",
 		"2EwGgMfEwZ9ReTpHx"
 	],
-	"address": "Гребенщикова, 7"
+	"address": "Белый Дом"
 },
 {
 	"_id": "cjhgCnJeeNTdMCbYZ",
-	"name": "Данил",
-	"address": "Гребенщикова 89",
+	"name": "Петя",
+	"address": "Красный дом",
 	"phone_ids": [
 		"WvPqz3ysRLeMZySRs"
 	]
